@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b962afff517ccc94294b827e9e85087d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Enemy_D_Impact.prefab
+  uploadId: 704307

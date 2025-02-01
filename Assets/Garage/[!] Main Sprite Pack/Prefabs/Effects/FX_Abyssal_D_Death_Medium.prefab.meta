@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c61ac85ecae98f44faeca5e525fd8e68
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Abyssal_D_Death_Medium.prefab
+  uploadId: 704307

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fead089d7c2685f4d9376404f515e333
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Explosion_A_Medium.prefab
+  uploadId: 704307

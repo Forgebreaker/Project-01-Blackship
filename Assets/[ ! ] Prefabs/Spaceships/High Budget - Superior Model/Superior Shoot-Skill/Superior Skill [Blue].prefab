@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &9222496403577037908
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1467783732279763501, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 382959d7304edee4997cd936b2edfb00, type: 3}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1936194842224281136, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146150163527634290, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 95d76ea5a0750ce4eaf77bb3a7236606, type: 3}
+    - target: {fileID: 9150318731805265838, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}
+      propertyPath: m_Name
+      value: 'Superior Skill [Blue]'
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 25d31f18a227b4645be7f3911a7c41bc, type: 3}

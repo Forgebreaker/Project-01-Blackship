@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c5c8c9da4e38ca4f88cabf804bb95fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Impact_Large.prefab
+  uploadId: 704307

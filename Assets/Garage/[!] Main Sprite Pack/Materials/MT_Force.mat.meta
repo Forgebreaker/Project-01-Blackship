@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1b4531aacb5dbc49996d32cf9d9897b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Materials/MT_Force.mat
+  uploadId: 704307

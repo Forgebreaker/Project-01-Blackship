@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6af9ae7aa1b916341bd03a2ffa80c082
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Impact_Giant.prefab
+  uploadId: 704307

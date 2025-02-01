@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71e822593d9518e4baa3a90a538f6ed8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Materials/MT_Abyssal_Chunks_A.mat
+  uploadId: 704307

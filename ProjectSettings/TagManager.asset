@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - JoyStick
+  - Shoot Button
+  - Shoot Cooldown
+  - Skill Button
+  - Skill Cooldown
+  - Enemy - Creep
+  - Enemy - Boss
+  - Player Bullet
+  - Player Skill
+  - Player Health Bar
+  - Boss Health Bar
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2157748193
+    locked: 0
+  m_RenderingLayers:
+  - Default

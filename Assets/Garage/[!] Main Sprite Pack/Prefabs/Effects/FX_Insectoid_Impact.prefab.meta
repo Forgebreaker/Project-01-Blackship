@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 39e01261c6ed7f64f87010ec5b357aae
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Insectoid_Impact.prefab
+  uploadId: 704307

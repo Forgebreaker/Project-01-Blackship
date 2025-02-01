@@ -1,0 +1,23 @@
+# ninja log v5
+19	3904	7577855359048120	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8271e8d6f0cddc2
+114	543	7577855325357604	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	94355232343aaa6c
+39	2780	7577855346918838	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	21d3194ce2341aa4
+545	991	7577855329662762	C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5ww5e6e1/obj/armeabi-v7a/libswappywrapper.so	3e843be6880a2025
+54	2774	7577855345696316	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2808850df8af219e
+93	3031	7577855350162428	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	873f64dddd1c82b2
+10	2925	7577855348095294	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b34a4e8e37f57762
+1	3270	7577855352458148	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	61e904e394b5b3e7
+72	2953	7577855348810329	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a95ffb3bb26d1638
+29	3527	7577855355151985	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c0270eee3de63084
+3905	4186	7577855361892830	C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5ww5e6e1/obj/armeabi-v7a/libgame.so	52db2b04855e8241
+143	411	7577863686775946	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	94355232343aaa6c
+412	847	7577863691065716	C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5ww5e6e1/obj/armeabi-v7a/libswappywrapper.so	3e843be6880a2025
+117	1497	7577863697440856	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	2808850df8af219e
+15	1523	7577863697760246	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	21d3194ce2341aa4
+46	1541	7577863697936049	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a95ffb3bb26d1638
+35	1595	7577863698415771	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	b34a4e8e37f57762
+61	1723	7577863699744589	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	873f64dddd1c82b2
+26	1833	7577863700825177	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	61e904e394b5b3e7
+92	2061	7577863703262819	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c0270eee3de63084
+5	2221	7577863704858615	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8271e8d6f0cddc2
+2221	2360	7577863706318748	C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5ww5e6e1/obj/armeabi-v7a/libgame.so	52db2b04855e8241

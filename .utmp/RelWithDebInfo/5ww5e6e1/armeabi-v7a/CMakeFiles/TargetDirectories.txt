@@ -1,0 +1,8 @@
+C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/.utmp/RelWithDebInfo/5ww5e6e1/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/.utmp/RelWithDebInfo/5ww5e6e1/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/.utmp/RelWithDebInfo/5ww5e6e1/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/.utmp/RelWithDebInfo/5ww5e6e1/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/.utmp/RelWithDebInfo/5ww5e6e1/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/.utmp/RelWithDebInfo/5ww5e6e1/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/.utmp/RelWithDebInfo/5ww5e6e1/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Training/Current Project - Cosmic Symphony/Cosmic Symphony - Wills of the Iron/.utmp/RelWithDebInfo/5ww5e6e1/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

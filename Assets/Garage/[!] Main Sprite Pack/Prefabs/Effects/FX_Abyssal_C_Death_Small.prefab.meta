@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb9e472bb3c7fad4db92d26a10131e19
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Abyssal_C_Death_Small.prefab
+  uploadId: 704307

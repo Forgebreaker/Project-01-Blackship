@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 70714919b2761194d8c6f450c6f2294a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Enemy_D_Death_Large.prefab
+  uploadId: 704307

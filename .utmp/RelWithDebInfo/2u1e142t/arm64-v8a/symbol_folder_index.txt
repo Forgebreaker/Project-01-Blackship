@@ -1,0 +1,1 @@
+C:\Training\Blackship-Company\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2u1e142t\obj\arm64-v8a

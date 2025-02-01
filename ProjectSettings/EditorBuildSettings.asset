@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Lobby.unity
+    guid: 9a889a6f0f730aa4c9462c2acdc1b7a3
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: c40381d750eeef442bfe7b2fc493eddd
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: adb53dd09bac9c94591ffbe9b4bde36c
+  - enabled: 1
+    path: Assets/Scenes/Add Coins.unity
+    guid: 2c4c0626c53a63247b85c3b8604aa3f0
+  - enabled: 1
+    path: Assets/Scenes/Add Gems.unity
+    guid: 857718d3e51cb4b49afdaaf44631cd2a
+  - enabled: 1
+    path: Assets/Scenes/Game Play Sceen/Easy Challenge [1].unity
+    guid: 79d0e6cb42382a64081ba8d0f2b2084e
+  - enabled: 1
+    path: Assets/Scenes/Game Play Sceen/Easy Challenge [2].unity
+    guid: b2b786467bb69cd4382065bb8914200b
+  - enabled: 1
+    path: Assets/Scenes/Game Play Sceen/Hard Challenge [1].unity
+    guid: 44f0e73e289ec8a42b29650733b3c9b9
+  - enabled: 1
+    path: Assets/Scenes/Game Play Sceen/Hard Challenge [2].unity
+    guid: 01402c8dbee01064c80f4b80200e5a71
+  - enabled: 1
+    path: Assets/Scenes/Game Play Sceen/Medium Challenge [1].unity
+    guid: 09a60189d0a80c144acd96d489b7caed
+  - enabled: 1
+    path: Assets/Scenes/Game Play Sceen/Medium Challenge [2].unity
+    guid: 815c1e7ecfd62a64487a9521ce357016
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3f7ad08ee7a67304b8607854caac3124, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c43dc39af85b13a49a5b5a8810b2baec, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8140cdfc02e15e540831440477cf7516, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 38edadfafd5354643bd362742d1bde84, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bdce532dc1859b4698bcd9a5581e105
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Materials/MT_Enemy_Chunks_C.mat
+  uploadId: 704307

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd96131c66912be4fba9e7e4908f50ba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Prefabs/Effects/FX_Enemy_C_Death_Medium.prefab
+  uploadId: 704307

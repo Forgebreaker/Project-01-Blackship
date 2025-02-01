@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 640be3f4682081c43b1014c5b04092c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212020
+  packageName: Stylized 2D Space Shooter Pack
+  packageVersion: 1.6.0
+  assetPath: Assets/Stylized 2D Space Shooter/Materials/MT_Smoke_Ring.mat
+  uploadId: 704307

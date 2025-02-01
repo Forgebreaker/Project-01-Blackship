@@ -1,0 +1,12 @@
+# ninja log v5
+111	944	7593084166451819	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6740406ff14ac300
+947	1283	7593084169893486	C:/Training/Blackship-Company/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2u1e142t/obj/arm64-v8a/libswappywrapper.so	63da34deb1622599
+48	2787	7593084184794897	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4b0c10bbb68f2a58
+94	2896	7593084186008373	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	e0ca0533b5acbfeb
+27	2906	7593084186120540	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	2696695d538f5cb7
+76	3060	7593084187517091	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3b2a8d6ca943a9ea
+61	3070	7593084187656063	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	dd18599852c1da8f
+15	3191	7593084188908442	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5c10834a48c4b4a6
+35	3412	7593084191155050	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d0d46ccb083fd231
+1	3559	7593084192630744	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a6d399b795cd927a
+3559	3726	7593084194290628	C:/Training/Blackship-Company/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2u1e142t/obj/arm64-v8a/libgame.so	bcd54202e1421cd5
